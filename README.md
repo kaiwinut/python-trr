@@ -1,4 +1,8 @@
 # python-trr
+<a href="https://pypi.org/project/pythontrr/"><img src="https://img.shields.io/pypi/v/pythontrr" alt="pypi badge"></a>
+<a href="https://github.com/kaiwinut/python-trr"><img src="https://img.shields.io/github/license/kaiwinut/python-trr" alt="license badge"></a>
+<a href="https://github.com/kaiwinut/python-trr"><img src="https://img.shields.io/github/release-date/kaiwinut/python-trr?color=orange" alt="release date badge"></a>
+
 Python-trr is an terminal app for typing practice. It is written in Python with one of its standard libraries - Curses, which means no additional packages are required to run this app as long as you have python3 installed in your environment. Python-trr is inspired by ( or a remake of ) [emacs-trr](https://github.com/kawabata/emacs-trr) on GNU Emacs.
 
 ## What does it do?
